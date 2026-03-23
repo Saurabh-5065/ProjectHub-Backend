@@ -1,4 +1,3 @@
-// SendInvitationRequest.java
 package com.saurabh.projectHub.dto;
 
 import jakarta.validation.constraints.NotBlank;
